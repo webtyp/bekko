@@ -4,7 +4,7 @@ go 1.26.8
 
 require (
 	webtyp.com/context v0.0.23
-	webtyp.com/embed v0.3.0
+	webtyp.com/embed v0.4.0
 	webtyp.com/encoder v0.2.0
 	webtyp.com/fmt v1.0.0
 	webtyp.com/tokenizer v0.2.0
@@ -17,5 +17,4 @@ require (
 	webtyp.com/model v0.2.0 // indirect
 	webtyp.com/nn v0.1.0 // indirect
 	webtyp.com/storage v0.1.1 // indirect
-	webtyp.com/transformer v0.1.4 // indirect
 )
