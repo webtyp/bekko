@@ -15,6 +15,6 @@ require (
 require (
 	webtyp.com/fetch v0.1.28 // indirect
 	webtyp.com/model v0.2.0 // indirect
-	webtyp.com/nn v0.1.0 // indirect
+	webtyp.com/nn v0.2.0 // indirect
 	webtyp.com/storage v0.1.1 // indirect
 )
