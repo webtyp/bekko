@@ -12,4 +12,4 @@ require (
 	webtyp.com/weights v0.3.0
 )
 
-require webtyp.com/nn v0.4.0 // indirect
+require webtyp.com/nn v0.5.0 // indirect
