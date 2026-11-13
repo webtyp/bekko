@@ -6,7 +6,7 @@ require (
 	webtyp.com/context v0.0.23
 	webtyp.com/embed v0.4.0
 	webtyp.com/encoder v0.2.0
-	webtyp.com/fmt v1.0.1
+	webtyp.com/fmt v1.0.2
 	webtyp.com/tokenizer v0.4.1
 	webtyp.com/vector v0.1.1
 	webtyp.com/weights v0.4.0
